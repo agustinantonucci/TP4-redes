@@ -1,0 +1,15 @@
+11/11/2022 16:04:47: {"medico": {"id": 2, "nombreCompleto": "Rene Antonucci", "especialidad": "Cardiologo"}}
+11/11/2022 16:05:06: {"medico": {"id": 1, "nombreCompleto": "Agustin Antonucci", "especialidad": "Neurologo"}}
+11/11/2022 16:09:40: {"medico": {"id": 4, "nombreCompleto": "Virginia Antonucci", "especialidad": "Oftalmologo"}}
+11/11/2022 16:10:40: {"medico": {"id": 1, "nombreCompleto": "Agustin Antonucci", "especialidad": "Neurologo"}}
+11/11/2022 16:12:09: {"medico": {"id": 4, "nombreCompleto": "Virginia Antonucci", "especialidad": "Oftalmologo"}}
+11/11/2022 16:13:26: {"medico": {"id": 2, "nombreCompleto": "Rene Antonucci", "especialidad": "Cardiologo"}}
+11/11/2022 16:13:36: {"medico": {"id": 4, "nombreCompleto": "Virginia Antonucci", "especialidad": "Oftalmologo"}}
+11/11/2022 16:14:18: {"medico": {"id": 6, "nombreCompleto": "Bruno Agonil", "especialidad": "Fisioterapeuta"}}
+11/11/2022 16:17:34: {"medico": {"id": 3, "nombreCompleto": "Patricia Ghi", "especialidad": "Neumonologo"}}
+11/11/2022 16:17:56: {"medico": {"id": 3, "nombreCompleto": "Patricia Ghi", "especialidad": "Neumonologo"}}
+11/11/2022 16:18:20: {"medico": {"id": 4, "nombreCompleto": "Virginia Antonucci", "especialidad": "Oftalmologo"}}
+11/11/2022 16:20:01: {"medico": {"id": 2, "nombreCompleto": "Rene Antonucci", "especialidad": "Cardiologo"}}
+11/11/2022 16:20:19: {"medico": {"id": 2, "nombreCompleto": "Rene Antonucci", "especialidad": "Cardiologo"}}
+11/11/2022 16:24:15: {"medico": {"id": 1, "nombreCompleto": "Agustin Antonucci", "especialidad": "Neurologo"}}
+11/11/2022 16:24:31: {"medico": {"id": 4, "nombreCompleto": "Virginia Antonucci", "especialidad": "Oftalmologo"}}
